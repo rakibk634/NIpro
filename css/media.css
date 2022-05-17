@@ -1,0 +1,624 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header start */
+
+  .sdm[data-bs-popper] {
+    top: 10px;
+    left: 0px;
+    margin-top: 0;
+  }
+
+  /* slider start */
+
+  .slider_text {
+    margin: 150px 0 80px;
+  }
+
+  .slider_text h1 {
+    font-size: 40px;
+  }
+
+  .slider_text p {
+    padding-right: 50px;
+  }
+
+  .slider_text button {
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+  }
+
+  .none {
+    font-size: 14px;
+  }
+
+  /* welcome start */
+
+  .pipe {
+    width: 2px;
+    height: 30px;
+  }
+
+  .wel {
+    margin-top: 10px;
+  }
+
+  /* service start */
+  .ser_f {
+    margin: 60px 40px 0;
+  }
+
+  /* service end/ */
+  /* Portfolio start */
+
+  /* Tab start */
+  .tab {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  .tab ul li a {
+    margin-right: 10px;
+    padding: 14px 8px;
+    font-size: 14px;
+  }
+  /* Tab end */
+  /* Single Item start */
+  .p_icon {
+    top: 30% !important;
+    left: 45%;
+  }
+
+  .p_icon i {
+    font-size: 40px;
+  }
+  .p_text {
+    margin-top: -105px;
+
+    padding: 16px 32px;
+  }
+  .p_text h2 {
+    font-size: 16px;
+  }
+
+  .p_text p {
+    font-size: 14px;
+  }
+  /* Single Item end */
+  /* About Start */
+  .a_text h2 {
+    margin-top: 20px;
+  }
+
+  .a_text p {
+    font-size: 14px;
+  }
+
+  .a_text a {
+    padding: 14px 30px;
+    font-size: 14px;
+  }
+
+  /* About end */
+
+  /* Portfolio end */
+  /* Why choose start */
+
+  .why_itm {
+    margin-top: 70px;
+  }
+
+  .why_icon {
+    margin-right: 10px;
+    float: left;
+  }
+  .why_icon i {
+    font-size: 40px;
+  }
+
+  .why_text h2 {
+    font-size: 16px;
+  }
+
+  .why_text p {
+    font-size: 14px;
+    margin-top: 30px;
+  }
+
+  /* Why choose end */
+  /* Who work with us start */
+
+  .workw {
+    padding-bottom: 100px;
+  }
+
+  .team {
+    margin-top: 50px;
+  }
+
+  .t_icon {
+    top: 25%;
+    padding: 13px 10px;
+  }
+
+  .t_icon a i {
+    font-size: 20px;
+  }
+
+  .t_text h2 {
+    font-size: 16px;
+  }
+  .t_text p {
+    font-size: 14px;
+  }
+  /* Who work with us end */
+  /* Pricing Start */
+
+  .m_price {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 50px 30px;
+  }
+
+  h3 {
+    float: left;
+    margin-top: -60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+  }
+
+  .pp {
+    margin-top: 20px;
+  }
+  .pp h2 {
+    font-family: Roboto-Medium;
+    font-size: 25px;
+  }
+  .pp p {
+    font-family: Roboto-Regular;
+    font-size: 16px;
+  }
+
+  .m_price ul li {
+    margin-top: 20px;
+    font-family: Roboto-Regular;
+    font-size: 14px;
+  }
+
+  .pbtn {
+    margin-top: 30px;
+  }
+
+  .pbtn a {
+    padding: 15px 30px;
+    font-size: 14px;
+  }
+
+  .pbtn i {
+    margin-left: 10px !important;
+  }
+
+  /* Pricing End */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+
+  .sdm[data-bs-popper] {
+    top: 10px;
+    left: 0px;
+    margin-top: 0;
+  }
+
+  /* slider start */
+
+  .slider_text {
+    margin: 150px 0 80px;
+  }
+
+  .slider_text h1 {
+    font-size: 40px;
+  }
+
+  .slider_text p {
+    padding-right: 50px;
+  }
+
+  .slider_text button {
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+  }
+
+  .none {
+    font-size: 14px;
+  }
+
+  /* welcome start */
+
+  .pipe {
+    width: 2px;
+    height: 30px;
+  }
+
+  .wel {
+    margin-top: 10px;
+  }
+
+  /* service start */
+  .ser_f {
+    margin: 60px 80px 0;
+  }
+
+  /* service end/ */
+  /* About Start */
+  .a_text h2 {
+    margin-top: 20px;
+  }
+
+  .a_text p {
+    font-size: 14px;
+  }
+
+  .a_text a {
+    padding: 14px 30px;
+    font-size: 14px;
+  }
+
+  /* About end */
+  /* Portfolio start */
+
+  /* Tab start */
+
+  .tab {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+
+  .tab ul li a {
+    margin-right: 05px;
+    padding: 14px 8px;
+    font-size: 14px;
+  }
+  /* Tab end */
+  /* Single Item start */
+
+  .p_icon {
+    top: 30% !important;
+    left: 45%;
+  }
+
+  .p_icon i {
+    font-size: 40px;
+  }
+
+  .p_text {
+    margin-top: -105px;
+
+    padding: 16px 32px;
+  }
+  .p_text h2 {
+    font-size: 16px;
+  }
+
+  .p_text p {
+    font-size: 14px;
+  }
+  /* Single Item end */
+
+  /* Portfolio end */
+  /* Why choose start */
+
+  .why_itm {
+    margin-top: 70px;
+  }
+
+  .why_icon {
+    margin-right: 10px;
+    float: left;
+  }
+  .why_icon i {
+    font-size: 40px;
+  }
+
+  .why_text h2 {
+    font-size: 16px;
+  }
+
+  .why_text p {
+    font-size: 14px;
+    margin-top: 30px;
+  }
+
+  /* Why choose end */
+
+  /* Who work with us start */
+
+  .workw {
+    padding-bottom: 100px;
+  }
+
+  .team {
+    margin-top: 50px;
+  }
+
+  .t_icon {
+    top: 12%;
+    padding: 13px 10px;
+  }
+
+  .t_icon a i {
+    font-size: 20px;
+  }
+
+  .t_text h2 {
+    font-size: 16px;
+  }
+  .t_text p {
+    font-size: 14px;
+  }
+  /* Who work with us end */
+  /* Pricing Start */
+
+  .m_price {
+    margin-top: 50px;
+    padding: 50px 30px;
+  }
+
+  h3 {
+    float: left;
+    margin-top: -60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+  }
+
+  .pp {
+    margin-top: 20px;
+  }
+  .pp h2 {
+    font-family: Roboto-Medium;
+    font-size: 25px;
+  }
+  .pp p {
+    font-family: Roboto-Regular;
+    font-size: 16px;
+  }
+
+  .m_price ul li {
+    margin-top: 20px;
+    font-family: Roboto-Regular;
+    font-size: 14px;
+  }
+
+  .pbtn {
+    margin-top: 30px;
+  }
+
+  .pbtn a {
+    padding: 15px 30px;
+    font-size: 14px;
+  }
+
+  .pbtn i {
+    margin-left: 10px !important;
+  }
+
+  /* Pricing End */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+
+  header {
+    padding: 20px 0;
+  }
+
+  .logo h2 {
+    font-size: 25px;
+  }
+
+  .sdm[data-bs-popper] {
+    top: 10px;
+    left: 0px;
+    margin-top: 0;
+  }
+
+  /* slider start */
+
+  .slider_text {
+    margin: 120px 0;
+  }
+
+  .slider_text h1 {
+    font-size: 40px;
+  }
+
+  .slider_text p {
+    padding-right: 80px;
+  }
+
+  .slider_text button {
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+  }
+
+  .none {
+    font-size: 14px;
+  }
+
+  /* welcome start */
+
+  .pipe {
+    width: 2px;
+    height: 35px;
+  }
+
+  .wel {
+    margin-top: 15px;
+  }
+
+  /* welcome end */
+
+  /* About Start */
+  .a_text p {
+    font-size: 14px;
+  }
+
+  .a_text a {
+    padding: 14px 30px;
+    font-size: 14px;
+  }
+
+  /* About end */
+
+  /* Portfolio start */
+
+  /* Tab start */
+  .tab {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  .tab ul li a {
+    margin-right: 10px;
+    padding: 14px 8px;
+    font-size: 14px;
+  }
+  /* Tab end */
+  /* Single Item start */
+  .p_icon {
+    top: 30% !important;
+    left: 45%;
+  }
+
+  .p_icon i {
+    font-size: 50px;
+  }
+  .p_text {
+    margin-top: -105px;
+
+    padding: 16px 32px;
+  }
+  .p_text h2 {
+    font-size: 16px;
+  }
+
+  .p_text p {
+    font-size: 14px;
+  }
+  /* Single Item end */
+
+  /* Portfolio end */
+
+  /* Why choose start */
+
+  .why_icon {
+    margin-right: 10px;
+    float: left;
+  }
+  .why_icon i {
+    font-size: 40px;
+  }
+
+  .why_text h2 {
+    font-size: 16px;
+  }
+
+  .why_text p {
+    font-size: 14px;
+    margin-top: 30px;
+  }
+
+  /* Why choose end */
+
+  /* Who work with us start */
+
+  .workw {
+    padding-bottom: 100px;
+  }
+
+  .team {
+    margin-top: 50px;
+  }
+
+  .t_icon {
+    top: 20%;
+    padding: 13px 10px;
+  }
+
+  .t_icon a i {
+    font-size: 20px;
+  }
+
+  .t_text h2 {
+    font-size: 16px;
+  }
+  .t_text p {
+    font-size: 14px;
+  }
+  /* Who work with us end */
+
+  /* Pricing Start */
+
+  .m_price {
+    margin-top: 50px;
+    padding: 50px 30px;
+  }
+
+  h3 {
+    float: left;
+    margin-top: -60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+  }
+
+  .pp {
+    margin-top: 20px;
+  }
+  .pp h2 {
+    font-family: Roboto-Medium;
+    font-size: 25px;
+  }
+  .pp p {
+    font-family: Roboto-Regular;
+    font-size: 16px;
+  }
+
+  .m_price ul li {
+    margin-top: 20px;
+    font-family: Roboto-Regular;
+    font-size: 14px;
+  }
+
+  .pbtn {
+    margin-top: 30px;
+  }
+
+  .pbtn a {
+    padding: 15px 50px;
+    font-size: 15px;
+  }
+
+  .pbtn i {
+    margin-left: 10px !important;
+  }
+
+  /* Pricing End */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/* Extra Large devices (desktops, 992px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+}
